@@ -1,2 +1,2 @@
-### ReminderPro App 
-#A simple for learning React and Redux
+# ReminderPro App 
+### a simple app for learning and practicing React and Redux
